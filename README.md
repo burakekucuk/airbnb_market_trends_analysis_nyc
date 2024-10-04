@@ -1,4 +1,4 @@
-# Airbnb Market Trends Analysis
+# Airbnb Market Trends Analysis in NYC
 
 This project analyzes trends in the Airbnb market in NYC using data on listing prices, room types, and review activity.
 
