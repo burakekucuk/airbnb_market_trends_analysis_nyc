@@ -1,10 +1,28 @@
 # Airbnb Market Trends Analysis in NYC
 
-This project analyzes trends in the Airbnb market in NYC using data on listing prices, room types, and review activity.
+This project explores the Airbnb market using data on listings, prices, and reviews. The goal is to identify key trends such as room type distribution, pricing patterns, and review trends.
 
-## Objectives:
-- Analyze room type distribution
-- Calculate average listing price
-- Visualize review trends over time
+## Project Objectives:
+- Analyze room type distribution.
+- Calculate average listing prices.
+- Visualize review trends over time.
 
-The project uses Python (Pandas, Matplotlib) to clean and visualize the data.
+## Data Sources:
+- `airbnb_price.csv`: Contains price information for Airbnb listings.
+- `airbnb_room_type.xlsx`: Provides details about room types.
+- `airbnb_last_review.tsv`: Tracks the most recent reviews.
+
+## Key Insights:
+- The most common room type is Private Room.
+- The average Airbnb listing price is around $X.
+- Review trends show a peak in activity from January to July, with a drop towards the end of the year.
+
+## How to Run:
+- Clone the repository: `git clone https://github.com/yourusername/airbnb-market-trends-analysis.git`
+- Install necessary libraries: `pip install -r requirements.txt`
+- Run the analysis using Jupyter Notebook.
+
+## Technologies Used:
+- Python
+- Pandas
+- Matplotlib
