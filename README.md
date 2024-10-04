@@ -1,6 +1,6 @@
 # Airbnb Market Trends Analysis
 
-This project analyzes trends in the Airbnb market using data on listing prices, room types, and review activity.
+This project analyzes trends in the Airbnb market in NYC using data on listing prices, room types, and review activity.
 
 ## Objectives:
 - Analyze room type distribution
